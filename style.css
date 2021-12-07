@@ -11,3 +11,11 @@ html {
 body {
     width: 100%;
 }
+
+#alert {
+    background-color: darkred;
+}
+
+#somme {
+    background-color: darkgreen;
+}
